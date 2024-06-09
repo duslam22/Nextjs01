@@ -1,0 +1,111 @@
+/* Invoices.css */
+
+.invoices-container {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .invoices-container h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .invoices-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .invoices-table th,
+  .invoices-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;a/* Invoices.css */
+
+    /* Container */
+    .admin-container {
+      margin: 0 auto;
+      max-width: 800px;
+      padding: 20px;
+    }
+    
+    /* Header */
+    .admin-header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    /* Table */
+    .admin-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    /* Table Header */
+    .admin-table th {
+      background-color: #f2f2f2;
+      padding: 10px;
+      text-align: left;
+      border: 1px solid #ddd;
+    }
+    
+    /* Table Body */
+    .admin-table td {
+      padding: 10px;
+      border: 1px solid #ddd;
+    }
+    
+    /* Table Image */
+    .admin-table img {
+      max-width: 100px;
+      height: auto;
+    }
+    
+    /* Button */
+    .admin-button {
+      padding: 5px 10px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    
+    .admin-button:hover {
+      background-color: #0056b3;
+    }
+    
+  }
+  
+  .invoices-table th {
+    background-color: #8b8b8b;
+  }
+  
+  .invoices-table td button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .invoices-table td button:hover {
+    background-color: #ddd;
+  }
+  
+  .header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .button-container {
+    margin-right: 20px; /* Jarak antara tombol "Tambah menu" dan tepi kanan */
+    background-color: #007bff; /* Warna latar belakang */
+    color: #fff; /* Warna teks */
+    padding: 10px 20px; /* Padding untuk memberikan ruang di sekitar teks */
+    border-radius: 5px; /* Mengatur border radius */
+    cursor: pointer;
+      transition: background-color 0.3s ease;
+  }
+  
